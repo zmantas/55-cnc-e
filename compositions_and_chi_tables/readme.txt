@@ -21,7 +21,7 @@ Eureka! and SPARTA from Hu et al. 2024; stark from Patel et al. 2024
 
 column labels for chi tables:
   chi_full(#): chi squared values for the combined NIRCam and MIRI spectrum
-	chi_nircam(#): chi squared values for the NIRCam spectrum
+  chi_nircam(#): chi squared values for the NIRCam spectrum
   chi_miri(#): chi squared values for the MIRI spectrum
   chi_miri_wo_shadow(#): chi squared values for the MIRI spectrum without the shadowed region (last two points)
   chi_full_wo_shadow(#): chi squared values for the combined NIRCam and MIRI spectrum without the shadowed region (last two points)
