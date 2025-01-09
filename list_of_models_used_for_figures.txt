@@ -1,0 +1,52 @@
+Fig.1: model_number_0 = '07601' # (f=1/4)
+Fig.2: top panel (f=1/3 grid):    
+        model_number_0 = '04009'
+        model_number_1 = '02985'
+        model_number_2 = '00037'
+        model_number_3 = '03959'
+       middle panel (f=2/3 grid):
+        model_number_0 = '00621'
+        model_number_1 = '00601'
+        model_number_2 = '05225'
+      bottom panel (f=1/4 grid):
+        model_number_0 = '07601'
+        model_number_1 = '00146'
+        model_number_2 = '00050'
+        model_number_3 = '06410'
+Fig.3: 
+    model_number_0 = '07601' # f=1/4
+    model_number_1 = '07985' # f=1/3
+    model_number_2 = '00611' # f=1/3
+    model_number_3 = '00664' # f=1/3
+Fig.4:
+    model_number_0 = '05217' # f=1/4
+    model_number_1 = '03521' # f=1/3
+    model_number_2 = '00625' # f=2/3
+Fig.7:
+    model_number_0 = '06901' # f=1/3
+    model_number_1 = '00689' # f=2/3
+    model_number_2 = '05848' # f=1/4
+    model_number_3 = '07601' # f=1/4
+Fig.8:
+    model_number_0 = '06910' # f=1/4
+    model_number_1 = '05833' # f=1/4
+    model_number_2 = '00004' # f=1/4
+    model_number_3 = '07601' # f=1/4
+    model_number_4 = '06871' # f=1/4
+ Fig.12:
+    model_number_main = '07601' # lavatmos
+    model_number_0 = '00003' # lavatmos
+    model_number_1 = '00015' # lavatmos
+    model_number_2 = '00002' # lavatmos
+    model_number_3 = '00014' # lavatmos
+ Fig.13:
+    model_number_0 = '00601' # f=2/3
+    model_number_1 = '00001' # NASA9
+    model_number_2 = '07601' # f=1/4
+    model_number_3 = '00007' # NASA9
+ Fig.17:
+    model_number_0 = '00003' # lavatmos
+    model_number_1 = '00146' # f=1/4
+    model_number_2 = '05815' # f=1/4
+    model_number_3 = '07601' # f=1/4
+
